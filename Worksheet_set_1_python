@@ -1,0 +1,10 @@
+Q1: C %
+Q2: B 0
+Q3: C 24
+Q4: A 2
+Q5: D 6
+Q6: C the finally block will be executed no matter if the try block raises an error or not.
+Q7: A It is used to raise an exception.
+Q8:  in defining a generator.
+Q9 : B 1abc and C abc2
+Q10: A  yield and B raise
