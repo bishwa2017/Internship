@@ -1,0 +1,17 @@
+Q1:-O(n3)
+Q2:- Logistic Regressio
+Q3:- Gradient Descent
+Q4:-Lasso
+Q5:-Stochastic Gradient Descent
+Q6:-True
+Q7:- scaling cost function by half makes gradient descent converge faster.
+Q8:-Correlation
+Q9:- B and D
+Q10:- B and C
+Q11:-D
+Q12:- We can use batch gradient descent, stochastic gradient descent, or mini-batch gradient descent. 
+SGD and MBGD would work the best because neither of them need to load the entire dataset into memory in order to take 1 step of gradient descent.
+Batch would be ok with the caveat that you have enough memory to load all the data.
+Q13:-The normal equations method does not require normalizing the features, so it remains unaffected by features in the training set having very different scales.
+Feature scaling is required for the various gradient descent algorithms. 
+Feature scaling will help gradient descent converge quicker.
