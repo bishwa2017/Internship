@@ -3,3 +3,32 @@ Q 2 :- (a) Central Limit Theorem
 Q 3 :- (b) Modeling bounded count data
 Q 4 :- (d) All of the mentioned
 Q 5 :- (c) Poisson
+q 6 :- (b) False
+Q 7 :- (b) Hypothesis
+Q 8 :- (a) 0
+Q 9 :- (c) Outliers can not confirm regression relationship
+Q 10 :- Normal Distribution:- Normal distribution is also known as the Gaussian distribution,
+                              is a probability distribution that is symmetric about the mean,
+                              showing that data near the mean are more frequent in occurrence
+                              than data far from the mean. In graph from, normal distribution
+                              will apear as a bell curve.
+Q 11 :- Handling Missing Data
+        1. Mean or Median imputation. When data is missing at random , we can use list-wise or
+           pai-wise deletion of the missing observations.
+        2. Multivariate Imputation by chained equation(MICE): MICE assumes that the missing data
+           are Missing at Random(MAR). It imputes data on a variable-by-variable basis by specifying
+           an impution model per variables.
+        3. Random Forest. Random forest is a non-parametric impution method applicable to various 
+           variable types that works well with both data missing at random and not missing at 
+           random.
+        I will recommend complete case analysis(CCA) imputation techinque, Arbitrary Value Imputation and Frequent Catagory Imputation.
+ Q 12 :- A/B Testing:- Like any type of scientific testing , A/B testing is basically statistical hypothesis testing , or, 
+                       in other wors, statistical inference. It is an analytical method for making decisions that estimates
+                       population parameters based on sample statistics.
+ Q 13 :- True, imputing the mean preserves the mean of the observed data. So if the data are missing completely at random,
+         the estimate of the mean remains unbiased.
+ Q 14 :- In statistics, linear regression is a linear approach for modeling the relationship between a scalar response and 
+         one or more explanatory variables.
+ Q 15 :- Branches of statistics :- Two Branches of statistics  Descriptive Statistics and Inferential Statistics.
+         Descriptive statistics : the branch of statistics that focuses on collecting , summerizing , and presenting a set of data.
+         Inferential Statistics : the branch of statistics that analyzes sample data to draw conclusions about a population.
